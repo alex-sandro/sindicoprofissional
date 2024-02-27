@@ -1,3 +1,2 @@
 # sindicoprofissional
-Landing Page para Síndicos
-Utilizando Bootstrap
+Landing page para síndicos utilizando Bootstrap.
